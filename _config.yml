@@ -4,10 +4,10 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 数据车间
+subtitle: "与魔鬼战斗的人,应当小心自己不要成为魔鬼。当你远远凝视深渊时,深渊也在凝视你。"
+description: "北极白熊君的个人博客"
+keywords: Baixiongjun
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
